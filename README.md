@@ -12,4 +12,7 @@
   * JAVASCRIPT
   
 ## Setup
-  To run this project, visit: https://priyanshu020.github.io/bosssecurity/ or http://bosssecurity.unaux.com/?i=1
+
+  To run this project, visit: 
+  * https://boss-security.netlify.app/
+  * http://bosssecurity.unaux.com/?i=1
