@@ -276,14 +276,14 @@
                                     </div>
                                 </div>
                                 
-                                <form class="contact-form col col-md-5 col-xs-12 col-sm-12" method="POST" name="contact" data-netlify="true">
+                                <form class="contact-form col col-md-5 col-xs-12 col-sm-12" method="POST" name="contact" data-netlify="true" netlify-honeypot="bot-field" action="/thanks">
                                         <h2>QUICK CONTACT</h2>
                                         <p>Need to get in touch with the team? We're all ears.</p>
-                                        <input type="text" name="name" placeholder="Name" class="input">
-                                        <input type="email" name="email" placeholder="Email" class="input">
+                                        <input type="text" name="name" placeholder="Name" class="input" value="contact">
+                                        <input type="email" name="email" placeholder="Email" class="input" value="contact">
                                         <input type="number" name="number" placeholder="Contact No" class="input">
                                         <textarea name="message" placeholder="Your Message" class="input"></textarea>
-                                        <button type="submit" name="submit">SUBMIT</button>
+                                        <button type="submit" name="submit" value="submit">SUBMIT</button>
                                 </form>
                             </div>
 
