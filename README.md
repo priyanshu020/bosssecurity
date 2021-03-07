@@ -15,4 +15,3 @@
 
   To run this project, visit: 
   * https://boss-security.netlify.app/
-  * http://bosssecurity.unaux.com/?i=1
